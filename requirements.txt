@@ -1,6 +1,6 @@
 Flask
 Flask-MySQLdb
-MySQLdb
+mysqlclient
 Werkzeug
 tensorflow
 numpy
