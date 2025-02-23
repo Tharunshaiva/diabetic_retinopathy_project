@@ -1,0 +1,12 @@
+Flask
+Flask-MySQLdb
+MySQLdb
+Werkzeug
+tensorflow
+numpy
+opencv-python
+matplotlib
+Pillow
+pandas
+Flask-Material
+gunicorn
